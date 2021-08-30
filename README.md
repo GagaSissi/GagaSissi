@@ -1,7 +1,9 @@
 ### Hi Together 👋
 
 :fire: I'm currently leraning coding
+
 :laughing: Try to say this loud: Hundeflokammentsorgungshelferverdienstbescheinigung
+
 :zap: Fun fact: "Made in Germany" used to be intended to alert the English to the poor quality of German products.
 
 <!--
