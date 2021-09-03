@@ -6,7 +6,7 @@
 
 :zap: Fun fact: "Made in Germany" used to be intended to alert the English to the poor quality of German products.
 
-- Bootcamp start: 30.08.2021 --> See my Repositories
+- Bootcamp Start: 30.08.2021 --> See my Repositories
 
 <!--
 **GagaSissi/GagaSissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
