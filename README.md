@@ -1,16 +1,8 @@
 ### Hi Together 👋
 
-:fire: I'm currently leraning coding
-- Bootcamp Start: 30.08.2021 --> Have a look on my Repositories
+## :fire: I'm currently learning coding
 
-💖 Wenn dich dein Leben nervt, streu Glitzer drauf!
-- Keep calm and stay smooth🧘‍♀️
+- Bootcamp is finished on 26.11.2021
+- Steady learning is a ongoing Process, so just have a look some time on my account if something new happend.
 
-
-
-<!--
-**GagaSissi/GagaSissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🌱 I’m currently learning coding
-- 💖 Wenn dich dein Leben nervt, streu Glitzer drauf!
-- ⚡ Fun fact: The slogan "Made in Germany" used to be intended to alert the English to the poor quality of German products.
+💖 If your life sucks, sprinkle glitter on it!
